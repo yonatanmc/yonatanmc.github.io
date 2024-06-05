@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5919-2145"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yonatan-Mamani-Coaquira"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "tuinsti"
   zhihu            : # URL
 
 
