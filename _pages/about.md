@@ -11,7 +11,7 @@ I am a PhD(c) in Computer Science at [Pontifical Catholic University of Peru](ht
 
 I have an internship and collaborator as a researcher in the [Data Analytics Science & Engineering Laboratory](https://www.researchgate.net/lab/Data-Analytics-Science-Engineering-Lab-Jesus-S-Aguilar-Ruiz) at Pablo of Olavide University in Seville, Spain. Nowadays, I do research in the [Artificial Intelligence Group](http://ia.inf.pucp.edu.pe/) at Pontifical Catholic University of Peru (PUCP) as a PhD(c) in Engineering in the area of Computer Science.
 
-Areas of interest
+My research interests
 ------
 1. Machine Learning
 1. Deep Learning
