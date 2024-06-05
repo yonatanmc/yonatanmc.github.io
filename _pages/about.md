@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD(c) in Computer Science at [Pontifical Catholic University of Peru](https://posgrado.pucp.edu.pe/doctorados/ingenieria). My research interests are in Machine Learning, Data Analytics & Natural Language Processing. Currently, I am investigating text representation with word embedding and graphs based concept-level for text classification.
+I am a PhD(c) in Engineering in the area of Computer Science at [Pontifical Catholic University of Peru](https://posgrado.pucp.edu.pe/doctorados/ingenieria). My research interests are in Machine Learning, Data Analytics & Natural Language Processing. Currently, I am investigating text representation with word embedding and graphs based concept-level for text classification.
 
 I have an internship and collaborator as a researcher in the [Data Analytics Science & Engineering Laboratory](https://www.researchgate.net/lab/Data-Analytics-Science-Engineering-Lab-Jesus-S-Aguilar-Ruiz) at Pablo of Olavide University in Seville, Spain. Nowadays, I do research in the [Artificial Intelligence Group](http://ia.inf.pucp.edu.pe/) at Pontifical Catholic University of Peru (PUCP) as a PhD(c) in Engineering in the area of Computer Science.
 
