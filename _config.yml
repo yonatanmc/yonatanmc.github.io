@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yonatan Mc / Homepage"
+title                    : "Yonatan Mc"
 title_separator          : "-"
 name                     : &name "Yonatan Mc"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "yonatanmc/yonatanmc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Yonatan Mc"
   pronouns         : # example: "she/her"  
   bio              : "Researcher of Machine Learning, Deep Learning and Data Analytics"
   location         : "Abancay, Peru"
-  employer         : "PUCP"
+  employer         : "PUCP Univesity"
   uri              : # URL
   email            : "ymamanic@pucp.edu.pe" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yonatanmc"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
