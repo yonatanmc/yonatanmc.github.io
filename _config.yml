@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yonatan Mc"
 title_separator          : "-"
-name                     : &name "Yonatan Mc"
+name                     : &name "Yonatan Mamani-Coaquira"
 description              : &description "personal description"
 url                      : https://yonatanmc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
