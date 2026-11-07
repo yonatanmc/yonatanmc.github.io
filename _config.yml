@@ -24,9 +24,9 @@ author:
   avatar           : "profile1.png"
   name             : "Yonatan Mc"
   pronouns         : # example: "she/her"  
-  bio              : "PhD(c) in Computer Science"
+  bio              : "PhD in Computer Science"
   location         : "Abancay, Peru"
-  employer         : "PUCP Univesity"
+  employer         : "PUCP University"
   uri              : # URL
   email            : "ymamanic@pucp.edu.pe" 
 
